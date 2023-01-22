@@ -1,7 +1,9 @@
 # coding-quiz
 
+
 ## Description
     * Starter codes of HTML & CSS files has been provided with some errors when the console is opened.
+
 
 ### Action
     
@@ -30,12 +32,12 @@
 
 
 ## Screen Shot of the website
-  ![](assets/coding-quiz.png)
+  ![](images/coding-quiz.png)
 
 
 ## Links to the deployed website and repository URL:
-  ** Deployed website:
-    
 
-  ** Repository URL:
-  
+### Repository URL: https://github.com/heirfanahmed/coding-quiz  
+
+### Deployed website: https://heirfanahmed.github.io/coding-quiz/
+
