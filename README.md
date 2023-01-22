@@ -30,7 +30,7 @@
 
 
 ## Screen Shot of the website
-  ![](assets/deployed-website.png)
+  ![](assets/coding-quiz.png)
 
 
 ## Links to the deployed website and repository URL:
